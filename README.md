@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Domisnnet/Door-Game-Vue.Js?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Domisnnet/Door-Game-Vue.Js?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Domisnnet/Door-Game-Vue.Js?style=for-the-badge)
+
 <h2 id="sobre-o-projeto">1. 🚪 Monty Hall: O Jogo das Portas Reativo 🎁</h2>
 
 ![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
@@ -36,8 +40,8 @@ Bem-vindo ao **Jogo das Portas**! Esta aplicação, desenvolvida com **Vue.js**,
 Teste sua sorte e escolha a porta premiada agora mesmo:
 
 <div align="left">
-  <a href="https://domisnnet.github.io/jogo-monty-hall/" target="_blank">
-    <img alt="Botão Acessar" src="src/assets/botão.webp" height="70" width="70" />
+  <a href="https://github.com/Domisnnet/Door-Game-Vue.Js" target="_blank">
+    <img alt="Botão Acessar" src="src/assets/img/botão.webp" height="70" width="70" />
   </a>
 </div>
 
@@ -73,7 +77,7 @@ Utilização de `this.$refs.bgMusic` para controlar o volume e o estado da músi
 
 Explore a arquitetura de componentes deste projeto Vue:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2Fjogo--monty--hall-1DB954?style=for-the-badge&logo=github)](https://github.com/Domisnnet/jogo-monty-hall)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FDoor--Game--Vue.Js-1DB954?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Door-Game-Vue.Js)
 
 ---
 
@@ -83,11 +87,12 @@ Siga os passos abaixo para adicionar novas mecânicas ao jogo:
 
 | Fase | Ação | Link / Comando |
 | :---: | :--- | :--- |
-| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/jogo-monty-hall/fork) |
+| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/Door-Game-Vue.Js/fork) |
 | **02** | **Branch** | `git checkout -b feature/NovosSons` |
 | **03** | **Commit** | `git commit -m 'feat: sons de abertura de porta'` |
 | **04** | **Push** | `git push origin feature/NovosSons` |
-| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/jogo-monty-hall/compare) |
+| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Door-Game-Vue.Js/compare) |
+
 
 ---
 
@@ -109,7 +114,7 @@ Siga os passos abaixo para adicionar novas mecânicas ao jogo:
 
 Analise os componentes e a lógica central do App:
 
-[![Código](https://img.shields.io/badge/Código%20Fonte-Acessar-795548?style=for-the-badge&logo=github)](https://github.com/Domisnnet/jogo-monty-hall/tree/main)
+[Repositório](https://img.shields.io/badge/Código%20Fonte-Acessar-795548?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Door-Game-Vue.Js/tree/main)
 
 ---
 
@@ -128,10 +133,12 @@ O Jogo das Portas une matemática e tecnologia front-end:
 
 <h2 id="licenca">11. 📄 Licença</h2>
 
-Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/jogo-monty-hall/blob/main/LICENSE)
+Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Door-Game-Vue.Js/main/LICENSE)
 
 ---
 
 <h2 id="perfil-do-github">12. 👨‍💻 Perfil do GitHub</h2>
 
-<a href="https://github.com/Domisnnet"> <img src="src/assets/DomisDev.png" width="120" alt="Acessar perfil GitHub"> </a>
+<a href="https://github.com/Domisnnet"> 
+  <img src="src/assets/DomisDev.png" width="120" alt="Acessar perfil GitHub"> 
+</a>
