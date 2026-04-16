@@ -114,7 +114,7 @@ Siga os passos abaixo para adicionar novas mecânicas ao jogo:
 
 Analise os componentes e a lógica central do App:
 
-[Repositório](https://img.shields.io/badge/Código%20Fonte-Acessar-795548?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Door-Game-Vue.Js/tree/main)
+![Repositório](https://img.shields.io/badge/Código%20Fonte-Acessar-795548?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Door-Game-Vue.Js/tree/main)
 
 ---
 
