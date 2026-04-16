@@ -74,11 +74,17 @@ Utilização de `this.$refs.bgMusic` para controlar o volume e o estado da músi
 
 ---
 
-<h2 id="codigo-fonte">6. 📂 Repositório</h2>
+<h2 id="codigo-fonte">6. 🚀 Instalação e Configuração Local</h2>
 
-Explore a arquitetura de componentes deste projeto Vue:
+Gostou da lógica do jogo? Sinta-se à vontade para explorar o código ou clonar o repositório:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FDoor--Game--Vue.Js-1DB954?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Door-Game-Vue.Js)
+```bash
+# Clonar o repositório
+git clone [https://github.com/Domisnnet/Door-Game-Vue.Js.git](https://github.com/Domisnnet/Door-Game-Vue.Js.git)
+
+# Acessar a pasta
+cd Door-Game-Vue.Js
+```
 
 ---
 
@@ -92,7 +98,13 @@ Siga os passos abaixo para adicionar novas mecânicas ao jogo:
 | **02** | **Branch** | `git checkout -b feature/NovosSons` |
 | **03** | **Commit** | `git commit -m 'feat: sons de abertura de porta'` |
 | **04** | **Push** | `git push origin feature/NovosSons` |
-| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Door-Game-Vue.Js/compare) |
+| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Door-Game-Vue.Js/compare)
+
+### 🐛 Encontrou um problema?
+Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
+
+[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/Door-Game-Vue.Js?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/Door-Game-Vue.Js/issues)
+[![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/Door-Game-Vue.Js/issues/new)
 
 ---
 
@@ -114,7 +126,7 @@ Siga os passos abaixo para adicionar novas mecânicas ao jogo:
 
 Analise os componentes e a lógica central do App:
 
-[![Repositório](https://img.shields.io/badge/Código%20Fonte-Acessar-795548?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Door-Game-Vue.Js/tree/main)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FDoor--Game--Vue.Js-1DB954?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Door-Game-Vue.Js)
 
 ---
 
