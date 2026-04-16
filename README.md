@@ -9,7 +9,7 @@
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-Vue.js%20%7C%20CSS-4FC08D)
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/jogo-monty-hall/blob/main/LICENSE)
 
-![Preview do Jogo das Portas](src/assets/img/iMac-24-1120x630.png)
+![Preview do Jogo das Portas]()
 
 Bem-vindo ao **Jogo das Portas**! Esta aplicação, desenvolvida com **Vue.js**, é uma implementação interativa do famoso paradoxo matemático de Monty Hall. O usuário pode configurar dinamicamente o número de portas e esconder um presente atrás de uma delas. O desafio é testar a sua sorte e lógica enquanto uma trilha sonora imersiva acompanha a jogatina.
 
@@ -140,5 +140,5 @@ Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badg
 <h2 id="perfil-do-github">12. 👨‍💻 Perfil do GitHub</h2>
 
 <a href="https://github.com/Domisnnet"> 
-  <img src="src/assets/DomisDev.png" width="120" alt="Acessar perfil GitHub"> 
+  <img src="src/assets/img/DomisDev.png" width="120" alt="Acessar perfil GitHub"> 
 </a>
