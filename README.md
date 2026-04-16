@@ -41,7 +41,7 @@ Bem-vindo ao **Jogo das Portas**! Esta aplicação, desenvolvida com **Vue.js**,
 Teste sua sorte e escolha a porta premiada agora mesmo:
 
 <div align="left">
-  <a href="https://github.com/Domisnnet/Door-Game-Vue.Js" target="_blank">
+  <a href="https://door-game-vuejs-09969196-bbd8f.web.app/" target="_blank">
     <img alt="Botão Acessar" src="src/assets/img/botão.webp" height="70" width="70" />
   </a>
 </div>
