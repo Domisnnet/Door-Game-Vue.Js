@@ -74,7 +74,7 @@ Utilização de `this.$refs.bgMusic` para controlar o volume e o estado da músi
 
 ---
 
-<h2 id="codigo-fonte">6. 🚀 Instalação e Configuração Local</h2>
+<h2 id="instalacao">6. 🚀 Instalação e Configuração Local</h2>
 
 Gostou da lógica do jogo? Sinta-se à vontade para explorar o código ou clonar o repositório:
 
