@@ -127,7 +127,7 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 Analise os componentes e a lógica central do App:
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FFrontend--Vue.Js-4FC08D?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Domisnnet/Frontend-Vue)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FFrontend--Vue.Js-4FC08D?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Domisnnet/Frontend-Vue.Js)
 
 ---
 
